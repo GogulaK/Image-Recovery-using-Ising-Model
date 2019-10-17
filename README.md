@@ -1,5 +1,6 @@
 # Image-Recovery-using-Ising-Model
 Implemented Hopfield network to recover original image from corrupted images.
+![banner](https://github.com/GogulaK/Image-Recovery-using-Ising-Model/blob/master/result.png)!
 
 ## Introduction
 In this project we implement a hopfield network to recover original images from a set of corrupted images.
